@@ -1,16 +1,24 @@
-- 👋 Hi, I’m @k-kayalha
+- 👋 Hi, I’m **Kasra Kayalha**
 - 👀 I’m interested in Scratch
 - 🌱 I’m currently learning Python and HTML , CSS
-- 📫 How to reach me on github
-- Connect With Me :
+- 📫 How to reach me on github and whatsapp
+- 📪To give a project chat on whatsapp 
+- **Connect With Me :**
   - Mail: Kayalha2024@hotmail.com
   - Github: https://github.com/k-kayalha
-- Languages and Tools :
+  - Whatsapp: https://B2n.ir/Whatsapp_MrKayalha
+- **Languages and Tools :**
   - Python - https://B2n.ir/Python_Web
   - Scratch - https://B2n.ir/Scratch.mit
   - JS - https://B2n.ir/JS_Web
   - Pycharm - https://B2n.ir/PyCharm-Editor
-
+  - VSCode - https://B2n.ir/vscodee
+- **Download :**
+  - Python - https://B2n.ir/pydowmload
+  - VSCode - https://B2n.ir/vscodedownload
+  - Pycharm - https://B2n.ir/pychramdownload
+- **for Leran More about me get message on whatsapp :**
+  -  https://B2n.ir/Whatsapp_MrKayalha
   
 
 <!---
